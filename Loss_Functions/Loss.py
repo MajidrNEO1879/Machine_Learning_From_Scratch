@@ -10,4 +10,3 @@ class Loss:
         raise NotImplementedError
     def backward (self):
         raise NotImplementedError
-    
